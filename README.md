@@ -33,10 +33,10 @@ Currently developing applications and automations for Discord at Labz Applicatio
 ## Connect
 
 <p align="center">
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/kaiqverse" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
+  <a href="CORD" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
