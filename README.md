@@ -55,7 +55,7 @@ Developer at Labz Applications, creating applications and automation for the Dis
 ## Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/kaiqverse" target="_blank">
+  <a href="https://www.instagram.com/kaiqverse?igsh=ZDV6Y3p4c3dqZHQ" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-444?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/615635332012048405" target="_blank">
