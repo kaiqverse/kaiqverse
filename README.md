@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋🌍 Hello, I'm Kaique.
+### 👋🌍 Hello, I'm magner .
 
 Full Stack Developer building web, mobile, and automation applications with focus on performance, usability, and scalable architecture.
 
