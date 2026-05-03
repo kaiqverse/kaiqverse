@@ -1,76 +1,47 @@
 <div align="center">
 
-### 👋🌍 Hello, I'm magner .
+# Kaique
 
-Full Stack Developer building web, mobile, and automation applications with focus on performance, usability, and scalable architecture.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=full+stack+developer;api+%2F+systems+%2F+web" />
 
-I create APIs, dashboards, bots, and management platforms, combining backend, frontend, and interface design to deliver secure and practical solutions.
-
-Currently developing applications and automations for Discord at Labz Applications.
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="34"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34"/>
-</p>
+building **modern applications**, **scalable apis** and **robust systems**  
+focused on performance, structure and real-world use
+
+</div>
 
 ---
 
-## Connect
+## 🧠 About
 
-<p align="center">
-  <a href="https://instagram.com/kaiqverse" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="CORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+i design and build **apis in typescript**, creating structured and scalable backends with node.js and modern tooling  
 
----
+experience working with **system architecture**, **data flow**, **automation** and **real-time applications**  
 
-Email: kaiquezadaaa@gmail.com
+also working with **c++ for low-level control and performance-critical scenarios**,  
+and **python (fastapi)** for rapid backend development  
 
-
-## Work
-
-Developer at Labz Applications, creating applications and automation for the Discord ecosystem.
+programming since age 12, building projects across different environments and technologies  
 
 ---
 
-## Connect With Me
+## 💻 Stack
 
-<p align="left">
-  <a href="https://www.instagram.com/kaiqverse?igsh=ZDV6Y3p4c3dqZHQ" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-444?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/1059539136605863946" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-444?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,bash,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,git" />
+
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-Email: kaiquezadaaa@gmail.com
+focused on building systems that scale and last  
 
----
-
-## Summary
-
-Full Stack Developer focused on web and mobile applications, automation systems, APIs, and user-centered interface design, delivering scalable and production-ready solutions. 
+</div>
